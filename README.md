@@ -1,6 +1,9 @@
 # Major-Technical-Project
 A collection of thesis, presentation, abstracts and poster, of the project (Scala-Refactoring-Tool) done as part of my final year courses DP-401P (2020) and DP-402P (2021) at IIT Mandi.
 
+## Project
+[Refactoring Scala Programs to Promote Functional Design Patterns](https://github.com/Scala-Refactoring-Toolkit/Scala-Refactoring-Tool)
+
 ### DP-401P Major Technical Project (Aug 2020- Jan 2021)
 [report #1](MTP_Report_2020_Semester_7.pdf)
 
